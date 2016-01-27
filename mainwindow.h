@@ -1,3 +1,5 @@
+// Windows implementation only
+
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
